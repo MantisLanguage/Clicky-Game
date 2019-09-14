@@ -4,8 +4,9 @@
     cursor: pointer;
     height: 170px;
     margin: 15px;
-    overflow: hidden;
+    /* overflow: hidden; */
     width: 170px;
+   display: inline-block;
   }
   
   .card:hover {
