@@ -8,6 +8,11 @@
     text-align: center;
     
   }
+  .banner-paragraph {
+   line-height: 300px;
+   color: white;
+
+  }
 
   @media (min-width: 576px) {
     .banner {
